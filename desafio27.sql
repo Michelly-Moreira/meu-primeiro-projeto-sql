@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS order_details;
+TRUNCATE order_details;
