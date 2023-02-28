@@ -1,0 +1,5 @@
+SELECT submitted_date
+FROM purchase_orders
+WHERE submitted_date
+BETWEEN '2006-04-26 00:00:00.000'
+AND '2006-04-26 23:59:59.997';
